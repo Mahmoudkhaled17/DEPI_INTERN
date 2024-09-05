@@ -11,12 +11,20 @@ data to the models defined by the data scientists they work with. In addition, m
 learning engineers also develop algorithms and build programs that enable machines,
 computers, and robots to process incoming data and identify patterns.
 
-*Statistics and Linear Algebra Basics 15
-*Data Science with Python 15
-*Machine Learning 21
-*Azure AI Fundamentals 15
-*Azure AI Engineer Associate 36
-*MLOps Tools, MLflow and Hugging Face 12
-*Build Basic Generative Adversarial Networks GANs 24
-*Natural Language Processing with Attention Models 21
-*Total 159
+* Statistics and Linear Algebra Basics 15
+
+* Data Science with Python 15
+
+* Machine Learning 21
+
+* Azure AI Fundamentals 15
+
+* Azure AI Engineer Associate 36
+
+* MLOps Tools, MLflow and Hugging Face 12
+
+* Build Basic Generative Adversarial Networks GANs 24
+
+* Natural Language Processing with Attention Models 21
+
+* Total 159
